@@ -97,6 +97,7 @@ height: 100%;
     font-weight: bold;
     margin-bottom: 0px;
     padding-top: 0px;
+    font-style: italic;
 }
 
 #lud img{
@@ -188,4 +189,46 @@ div#seg1{
 }
 .mb-5{
   margin-bottom: 0rem!important;
+}
+
+.col-8.col-md-6.col-lg-4{
+  margin-bottom: 65px;
+}
+
+#quat{
+  background-image: linear-gradient(to bottom, #000000, #150b0a, #20140c, #261c0d, #28260f);
+}
+
+span.title-decorative{
+  COLOR: blanchedalmond;
+  font-style: italic;
+}
+span.lead {
+  text-align: justify;
+  COLOR: black;
+}
+h3#ance {
+  color: tomato;
+}
+#lud2{
+  background-color: rgba(7, 7, 191, 0.485);
+}
+
+div#seg1 {
+  padding-top: 75px;
+}
+.carousel-item#seg1{
+  width: 700px;
+  height: 400px; 
+}
+
+#seg1 .carousel-inner .carousel-item > img{
+  width: 700px;
+  height: 400px; 
+  
+}
+span#ance {
+  color: #dee2e6;
+  
+  text-align: justify;
 }
