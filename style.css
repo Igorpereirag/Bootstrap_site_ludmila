@@ -232,3 +232,22 @@ span#ance {
   font-weight: bold;
   text-align: justify;
 }
+img.rounded-circle {
+  margin-top: 7px;
+}
+
+
+
+img#cit {
+  align-content: center;
+  margin-left: 40%
+}
+
+div#cit {
+  padding-top: 4px;
+  text-align: justify;
+  font-family:  'Poppins', sans-serif;
+  padding: 5px;
+  font-weight: bold;
+  
+}
