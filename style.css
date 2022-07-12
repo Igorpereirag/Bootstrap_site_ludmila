@@ -250,6 +250,7 @@ div#cit {
   padding: 5px;
   font-weight: bold;
   font-style: italic;
+  margin-bottom: 53px;
   
 }
 
@@ -258,14 +259,24 @@ div#cit {
 }
 
 #quint {
-  background-image: linear-gradient(to right bottom, #ffffff, #f3f9ff, #e1f5fa, #d3f1eb, #d2ead4);
+  background-color: #005247;
 }
 a#vender {
-  margin-bottom: 50px;
+  margin-bottom: 14px;
+ 
 }
-
-
+div#vender {
+  margin-top: 10px;
+}
 
 div#seg1 {
 padding-top: 77px;
+}
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: bisque;
+}
+h5.h1 {
+  color: seashell;
 }
