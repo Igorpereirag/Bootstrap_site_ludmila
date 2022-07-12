@@ -66,7 +66,7 @@ align-self: center;
    
     
 }
-.navbar-center {
+.navbar-center{ 
   position: absolute;
   left: 50%;
   transform: translatex(-50%);
@@ -172,6 +172,7 @@ h1.display-4 {
   text-align: center;
   font-weight: bold;
   font-style: italic;
+  color: darkgoldenrod;
   
 }
 p#p1 {
@@ -211,7 +212,7 @@ h3#ance {
   color: tomato;
 }
 #lud2{
-  background-color: rgba(7, 7, 191, 0.485);
+  background-color:black;
 }
 
 div#seg1 {
@@ -225,6 +226,14 @@ div#seg1 {
 #seg1 .carousel-inner .carousel-item > img{
   width: 700px;
   height: 400px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-style: solid;
+  border-color: #dee2e6;
+  border-width: 3px;
+
   
 }
 span#ance {
@@ -250,7 +259,7 @@ div#cit {
   padding: 5px;
   font-weight: bold;
   font-style: italic;
-  margin-bottom: 53px;
+  margin-bottom: 0px;
   
 }
 
@@ -280,3 +289,65 @@ padding-top: 77px;
 h5.h1 {
   color: seashell;
 }
+
+ul.fa-ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#contato {
+  background-color:rgb(193, 241, 15);
+  padding:50px 0 50px 0;
+}
+.title-contato{
+   line-height:0;
+/*footer*/
+}
+.fa-brands {
+  color:white;
+}
+.fa-brands:hover{
+  color: #F68116;
+}
+
+.contact-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  padding-top:10px;
+  background: black;
+  color:white;
+  
+}
+.contact-links {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  max-width: 980px;
+  flex-wrap: wrap;
+  
+}
+
+.contact-details {
+  font-size: 1.4rem;
+  transition: transform 0.3s ease-out;
+ }
+
+.contact-details:hover {
+  transform: translateY(4px);
+}
+.text-center.p-3{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+
