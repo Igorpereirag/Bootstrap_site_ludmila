@@ -185,7 +185,7 @@ img.rounded-circle.shadow-4 {
   margin-left: 40%;
 }
 div#seg1{
-  padding-top: 0px;
+  padding-top: 22px;
 }
 .mb-5{
   margin-bottom: 0rem!important;
@@ -257,4 +257,15 @@ div#cit {
   background-image: radial-gradient(circle, #2900ff, #3000ff, #3600ff, #3b00ff, #4000ff);
 }
 
+#quint {
+  background-image: linear-gradient(to right bottom, #ffffff, #f3f9ff, #e1f5fa, #d3f1eb, #d2ead4);
+}
+a#vender {
+  margin-bottom: 50px;
+}
 
+
+
+div#seg1 {
+padding-top: 77px;
+}
