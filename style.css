@@ -109,7 +109,7 @@ height: 100%;
 }
 
 p.h2{
-  font-size: 17px;
+  font-size: 20px;
 text-align: justify;
 font-family: 'Poppins', sans-serif;
 font-weight: bold;
@@ -249,5 +249,12 @@ div#cit {
   font-family:  'Poppins', sans-serif;
   padding: 5px;
   font-weight: bold;
+  font-style: italic;
   
 }
+
+#lud2 {
+  background-image: radial-gradient(circle, #2900ff, #3000ff, #3600ff, #3b00ff, #4000ff);
+}
+
+
