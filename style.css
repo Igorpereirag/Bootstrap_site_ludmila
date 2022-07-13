@@ -235,7 +235,7 @@ div#seg1 {
   justify-content: center;
   align-items: center;
 border-style: solid;
-  border-color: #eeeaaf;
+  border-color: #ffffff;
   border-width: 5px;
 
   
@@ -282,6 +282,14 @@ div#vender {
   margin-top: 10px;
 }
 
+section#lud2{
+  background-color: #007DCA;
+}
+  
+.contact-links.border-top{
+  border-top: 1px solid #0f7ce9!important;
+}
+
 div#seg1 {
 padding-top: 77px;
 }
@@ -310,10 +318,10 @@ ul.fa-ul {
 /*footer*/
 }
 .fa-brands {
-  color:white;
+  color:rgb(240, 238, 233);
 }
 .fa-brands:hover{
-  color: #F68116;
+  color: #0be630;
 }
 
 .contact-section {
@@ -334,6 +342,7 @@ ul.fa-ul {
   width: 100%;
   max-width: 100%;
   flex-wrap: wrap;
+  background: goldenrod;
   
 }
 
