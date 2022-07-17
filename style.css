@@ -283,7 +283,7 @@ div#vender {
 }
 
 section#lud2{
-  background-color: #007DCA;
+  background-image: linear-gradient(to right, #d16ba5, #c772b8, #b97bc9, #a784d7, #918de3, #6d8ede, #458dd6, #008bc9, #007ea8, #006e85, #005e65, #054d48);
 }
   
 .contact-links.border-top{
@@ -296,7 +296,7 @@ padding-top: 77px;
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
-  color: bisque;
+  color: #f9fafb;
 }
 h5.h1 {
   color: seashell;
@@ -342,7 +342,8 @@ ul.fa-ul {
   width: 100%;
   max-width: 100%;
   flex-wrap: wrap;
-  background: goldenrod;
+  
+  background-image: linear-gradient(to right, #d16ba5, #c772b8, #b97bc9, #a784d7, #918de3, #6d8ede, #458dd6, #008bc9, #007ea8, #006e85, #005e65, #054d48);
   
 }
 
@@ -366,3 +367,6 @@ div#navbarNav ul#sobre {
   justify-content: flex-end!important;
 }
 
+div#navbarNav{
+  justify-content: flex-end!important;
+}
