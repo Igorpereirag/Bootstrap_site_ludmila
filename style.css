@@ -109,7 +109,7 @@ height: 100%;
 }
 
 p.h2{
-  font-size: 20px;
+  font-size: 14px;
 text-align: justify;
 font-family: 'Poppins', sans-serif;
 font-weight: bold;
@@ -343,12 +343,12 @@ ul.fa-ul {
   max-width: 100%;
   flex-wrap: wrap;
   
-  background-image: linear-gradient(to right, #d16ba5, #c772b8, #b97bc9, #a784d7, #918de3, #6d8ede, #458dd6, #008bc9, #007ea8, #006e85, #005e65, #054d48);
+  background-image: linear-gradient(to right bottom, #f9d915, #f8c610, #f4b311, #efa116, #e88f1c);
   
 }
 
 .contact-details {
-  font-size: 1.4rem;
+ 
   transition: transform 0.3s ease-out;
  }
 
